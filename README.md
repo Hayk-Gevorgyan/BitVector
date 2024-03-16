@@ -1,4 +1,4 @@
-##Simple BitVector implementation in Java
+## Simple BitVector implementation in Java
 
 **Features:**
 * Creating a bit vector of a certain size
